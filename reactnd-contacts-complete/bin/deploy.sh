@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./build s3://mybucket959020458929/
+aws s3 cp --recursive  ./build s3://mybucket959020458929/
